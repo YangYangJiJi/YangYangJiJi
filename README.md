@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning, algorithm, bioinformatics**
 
-- 📝 I regularly write articles on [https://blog.naver.com/jihyunnamu](https://blog.naver.com/yangyangjiji)
+- 📝 I regularly write articles on [https://blog.naver.com/yangyangjiji](https://blog.naver.com/yangyangjiji)
  
 - 📫 How to reach me **jihyunnamu@naver.com**
 
