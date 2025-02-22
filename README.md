@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yangyangjiji&label=Profile%20views&color=0e75b6&style=flat" alt="yangyangjiji" /> </p>
 
-- 🌱 I’m currently learning **machine learning, algorithm**
+- 🌱 I’m currently learning **machine learning, algorithm, bioinformatics**
 
-- 📝 I regularly write articles on [https://blog.naver.com/jihyunnamu](https://blog.naver.com/jihyunnamu)
-
+- 📝 I regularly write articles on [https://blog.naver.com/jihyunnamu](https://blog.naver.com/yangyangjiji)
+ 
 - 📫 How to reach me **jihyunnamu@naver.com**
 
 <h3 align="left">Connect with me:</h3>
